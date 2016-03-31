@@ -18,6 +18,7 @@ public class fibonacci {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Eki PWS");
         System.out.println("Input   : ");
         int number = new Scanner(System.in).nextInt();
       
